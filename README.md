@@ -43,7 +43,7 @@ This exploration was a starting point for my later writing on gendered sexual la
 
 ## Acknowledgments
 
-Thanks to Noble Kennamer, who walked me through this project when I was just learning to code.
+Thanks to [Noble Kennamer](https://github.com/noblekennamer), who walked me through this project when I was just learning to code.
 
 ## License
 
