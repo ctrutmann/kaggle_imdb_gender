@@ -41,6 +41,10 @@ This is one model trained on one corpus, not a controlled study. Results like th
 
 This exploration was a starting point for my later writing on gendered sexual language and for an NLP independent study at the University at Albany (2025). More at [christeltrutmann.com](https://christeltrutmann.com/).
 
+## Acknowledgments
+
+Thanks to Noble Kennamer, who walked me through this project when I was just learning to code.
+
 ## License
 
 GPL-3.0. See [LICENSE](LICENSE).
